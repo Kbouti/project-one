@@ -48,6 +48,8 @@ a {
 
 .box-one {
     display:flex;
+    background-color: #1F2937;
+    
 }
 
 .box-two {
@@ -67,6 +69,14 @@ a {
 .four-text{
     display:flex;
     flex-direction:column;
+}
+
+.one-title {
+    color:#F9FAF8;
+}
+
+.one-text{
+    color:#E5E7EB;
 }
 
 button {
