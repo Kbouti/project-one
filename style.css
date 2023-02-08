@@ -1,9 +1,7 @@
 body {
     display:flex;
     flex-direction:column;
-
 }
-
 
 .header,
 .footer {
@@ -12,8 +10,6 @@ body {
     color:white;
     align-items:center;
     flex-direction:row;
-
-
 }
 
 .header {
@@ -30,16 +26,34 @@ body {
     flex-direction:row;
     gap:16px;
     padding-inline-end: 1em;
-
 }
 
 a {
     text-decoration: none;
     color:white;
-
 }
 
 .header-logo {
     padding-inline-start:1em;
     font-size: 24px;
+}
+
+.content {
+    display:flex;
+}
+
+.box-one {
+    display:flex;
+}
+
+.box-two {
+    display:flex;
+}
+
+.box-three {
+    display:flex;
+}
+
+.box-four {
+    display:flex;
 }
