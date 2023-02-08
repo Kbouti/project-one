@@ -1,0 +1,15 @@
+body {
+    display:flex;
+    flex-direction:column;
+}
+
+.header {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+
+.header ul {
+    list-style: none;
+    ;
+}
