@@ -1,0 +1,1 @@
+This is the HTML/CSS/Flexbox project for the Foundations course. Upon completion I'll be ready to start learning Java. 
