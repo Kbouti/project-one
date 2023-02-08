@@ -1,6 +1,7 @@
 body {
     display:flex;
     flex-direction:column;
+    margin:0px;
 }
 
 .header,
@@ -40,6 +41,7 @@ a {
 
 .content {
     display:flex;
+    flex-direction:column;
 }
 
 .box-one {
@@ -56,4 +58,17 @@ a {
 
 .box-four {
     display:flex;
+    background:#3882F6;
+    color:white;
+}
+
+.four-text{
+    display:flex;
+    flex-direction:column;
+}
+
+button {
+    background:#3882F6;
+    color:white;
+    border-radius:10px;
 }
