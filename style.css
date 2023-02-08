@@ -4,13 +4,24 @@ body {
 
 }
 
-.header {
+
+.header,
+.footer {
     display:flex;
-    flex-direction:row;
-    justify-content:space-between;
     background-color:#1F2937;
     color:white;
     align-items:center;
+    flex-direction:row;
+
+
+}
+
+.header {
+    justify-content:space-between;
+}
+
+.footer {
+    justify-content:center;
 }
 
 .header ul {
@@ -30,4 +41,5 @@ a {
 
 .header-logo {
     padding-inline-start:1em;
+    font-size: 24px;
 }
