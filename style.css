@@ -50,7 +50,7 @@ a {
     display:flex;
     background-color: #1F2937;
     justify-content:space-between;
-    padding:20px;
+    padding:96px;
     
 }
 
@@ -123,6 +123,7 @@ h4 {
     display:flex;
     flex-direction:row;
     gap:20px;
+    padding: 0px;
 }
 
 .box-two ul li {
@@ -153,4 +154,5 @@ h4 {
 
 .box-one img {
     flex-basis:200px;
+    padding-left:16px;
 }
