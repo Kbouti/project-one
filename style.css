@@ -64,6 +64,10 @@ a {
     display:flex;
     background:#3882F6;
     color:white;
+    margin:100px;
+    padding:16px;
+    justify-content:space-around;
+    border-radius: 10px;
 }
 
 .four-text{
@@ -94,4 +98,8 @@ button {
 
 .one-content button {
     align-self:flex-start;
+}
+
+h4 {
+    margin:0;
 }
