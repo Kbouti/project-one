@@ -49,6 +49,8 @@ a {
 .box-one {
     display:flex;
     background-color: #1F2937;
+    justify-content:center;
+    padding:20px;
     
 }
 
@@ -102,4 +104,8 @@ button {
 
 h4 {
     margin:0;
+}
+
+.box-one img {
+    padding:20px;
 }
