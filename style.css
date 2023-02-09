@@ -114,4 +114,9 @@ h4 {
     height:80px;
     width:80px;
     border:5px solid #3882F6;
+    border-radius: 10px;
+}
+
+.box-two ul {
+    list-style: none;
 }
