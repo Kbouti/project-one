@@ -90,6 +90,7 @@ a {
 
 .one-text{
     color:#E5E7EB;
+    margin-bottom:8px;
 }
 
 button {
@@ -158,3 +159,16 @@ h4 {
     flex-basis:200px;
     padding-left:16px;
 }
+
+button {
+    background:#3882F6;
+    color:white;
+    border-radius:8px;
+    border-style:none;
+    padding:8px 24px;
+}
+
+.white-outline {
+    border:3px solid white;
+}
+
